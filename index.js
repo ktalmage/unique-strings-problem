@@ -1,4 +1,4 @@
-let str = "hi"
+let str = "hi tr"
 
 function uniqueStr(str){
   let count = {}
